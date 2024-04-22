@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
 
 @Entity
 @Data
-@Table(name = "SleepSessions")
+@Table(name = "sleep_sessions")
 public class SleepSession {
 
     @Id
